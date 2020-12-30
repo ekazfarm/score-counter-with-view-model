@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreCounter-2</string>
+    <string name="score_counter">Hello World!</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score_counte">Score Counter</string>
+    <string name="reset">reset</string>
+    <string name="_0">0</string>
+    <string name="_1">+1</string>
+    <string name="_minus1">-1</string>
+</resources>
